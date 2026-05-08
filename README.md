@@ -14,5 +14,3 @@
 #### 📊 [𝙇𝙚𝙚𝙩𝘾𝙤𝙙𝙚 𝙥𝙧𝙤𝙛𝙞𝙡𝙚](https://leetcode.com/u/hirenjoshi/)<br>
 #### 📊 [𝙇𝙞𝙣𝙠𝙚𝙙𝙄𝙣 𝙥𝙧𝙤𝙛𝙞𝙡𝙚](https://www.linkedin.com/in/hirenjoshi1630/)
 #### 📊 [𝙂𝙞𝙩𝙃𝙪𝙗 𝙥𝙧𝙤𝙛𝙞𝙡𝙚](https://github.com/hiren-j)
-
-🔗 𝘊𝘩𝘦𝘤𝘬𝘰𝘶𝘵 𝘮𝘺 𝘳𝘦𝘴𝘶𝘮𝘦 [𝘩𝘦𝘳𝘦](https://github.com/hiren-j/hiren-j/blob/main/Hiren_Joshi_Software_Engineer_Cpp.pdf). 𝘋𝘰𝘸𝘯𝘭𝘰𝘢𝘥 𝘵𝘩𝘦 𝘳𝘦𝘴𝘶𝘮𝘦 𝘱𝘥𝘧 𝘵𝘰 𝘨𝘢𝘪𝘯 𝘤𝘰𝘮𝘱𝘭𝘦𝘵𝘦 𝘢𝘤𝘤𝘦𝘴𝘴 𝘵𝘰 𝘩𝘺𝘱𝘦𝘳𝘭𝘪𝘯𝘬𝘴, 𝘦𝘵𝘤.
